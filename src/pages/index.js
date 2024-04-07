@@ -103,7 +103,7 @@ const links = [
     text: "Conceptual Guides",
     url: "https://www.gatsbyjs.com/docs/conceptual/",
     description:
-      "Big-picture explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
+      "HIDDEN explanations of higher-level Gatsby concepts. Most useful for building understanding of a particular topic.",
     color: "#0D96F2",
   },
   {
